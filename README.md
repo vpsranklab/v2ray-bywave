@@ -1,4 +1,4 @@
-# ByWave：高端抗压V2Ray机场，万兆金融级IEPL专线，每日签到送流量
+# ByWave官方地址
 
 [**ByWave**](https://user.by.ltd/aff.php?aff=15543)，主打高端的 V2ray 机场。本站已关注并持续使用超过4年时间，体验优秀。这家机场主要走高端，拥有阿里云/WTT/HKT等线路，且**全内网中转**节点，更提供有 IPLC 专线（专线套餐）。
 
